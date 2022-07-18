@@ -5,11 +5,10 @@ One of the key strategy for the success of eCommerce Provisers is to provide the
 CohortMapping at [Edgeworkers](https://techdocs.akamai.com/edgeworkers/docs/welcome-to-edgeworkers) is aimed to solve the client side additional overhead of cohort mapping and moving the logic to Akamai Edge.
 
 ### Existing Workflow
-![Screenshot](images/currentsetup.png)
+![Screenshot](images/currentsetup.jpg)
 
 ### Akamai Edgeworker Workflow
-![Screenshot](images/currentsetup.png)
-
+![Screenshot](images/ew.jpg)
 
 ### Prerequisite
 Get the Group Id of the config and use it while creating edgeworker
