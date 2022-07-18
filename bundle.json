@@ -1,0 +1,9 @@
+{
+    "edgeworker-version": "0.9",
+    "bundle-version" : 1,
+    "api-version" : "0.1",
+    "description" : "Implemented Response Provider",
+    "misc" : {
+        "author" : "Achuthananda M P"
+     }
+}
