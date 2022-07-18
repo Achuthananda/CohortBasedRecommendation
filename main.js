@@ -40,7 +40,7 @@ export async function responseProvider(request) {
 	let result = {};
 	
 	let cohortId = request.getVariable('PMUSER_COHORTD');
-	const recommendationEP = `https://ajio.achuth.tech/getrecommendation?cohortId=${cohortId}`;
+	const recommendationEP = `https://demoserver.achuth.tech/getrecommendation?cohortId=${cohortId}`;
 
 	const endPointResult1 = getJSON(recommendationEP).then(json => { result = json; });
 	logger.log(endPointResult1);
